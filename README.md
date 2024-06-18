@@ -31,3 +31,6 @@ class Solution:
                 curr_answer = curr_answer.next
 
         return answer_lst
+
+
+<img width="275" alt="스크린샷 2024-06-19 오전 12 24 44" src="https://github.com/2020131030/leetcode/assets/169224394/57601b5b-d392-47a8-a2cd-4405de1a8dbf">
