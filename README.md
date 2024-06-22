@@ -281,8 +281,6 @@ class Solution:
 
 class Solution:
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
-        
-        
         head=ListNode(-1)
         cursor=head
         
